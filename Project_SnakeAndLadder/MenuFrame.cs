@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Engine;
 
 namespace Project_SnakeAndLadder
 {
@@ -15,6 +16,7 @@ namespace Project_SnakeAndLadder
         public MenuFrame()
         {
             InitializeComponent();
+            Board b = new Board();
         }
     }
 }
