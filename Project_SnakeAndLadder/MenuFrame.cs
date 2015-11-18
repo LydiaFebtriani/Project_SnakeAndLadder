@@ -19,6 +19,7 @@ namespace Project_SnakeAndLadder
             Board b = new Board();
             //commit test
             //coba2
+            //test
         }
     }
 }
